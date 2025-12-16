@@ -1,17 +1,17 @@
 ![Banner](images/banner.jpg)
 
-# Hey, I'm Stephen Yang
+# Stephen Qingyuan Yang
 
   **Co-founder & CEO @ [SuperScored.ai](https://superscored.ai)** | Stanford Math & CS (On Leave)
 
-  Building AI-powered education technology. Previously researching LLMs, innovation economics, and political economy
+  Building AI-powered EdTech. Previously researching LLMs, innovation economics, and political economy
    at Stanford.
 
   ---
 
   ### What I'm Working On
 
-  **SuperScored.ai** - An AI edtech startup reimagining how students learn and succeed.
+  **SuperScored.ai** - The best way to study for the SAT.
 
   ### Research Background
 
@@ -29,16 +29,12 @@
   [Google Scholar](https://scholar.google.com/citations?user=blj91c8AAAAJ&hl=en) |
   [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=5972104)
 
-  ### Tech Stack
+  ### Other Interests
 
-  TypeScript  •  React  •  Python  •  Tailwind CSS  •  Node.js
-
-  ### Beyond the Code
-
-  - **Math Competitions** - USAJMO 2x Qualifier, AIME 12/15 (Top 1%), MathCounts 8th National
-  - **Policy Debate** - Tournament of Champions Qualifier, 29th Nationally
+  - **Math Competitions** - USAJMO 2x Honorable Mention, MathCounts 8th National
+  - **Policy Debate** - TOC Qualifier, 29th Nationally
   - **Speedcubing** - Official 3x3 PB: 9.92s single
-  - **Table Tennis** - Former professional training, still playing regularly
+  - **Table Tennis** - Trained professionally once upon a time, still playing regularly
 
   ### Let's Connect
 
