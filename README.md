@@ -1,6 +1,6 @@
 # Hey, I'm Stephen Yang
 
-  **Co-founder & CEO @ [SuperScored.ai](https://superscored.ai)** | Stanford Mathematics (On Leave)
+  **Co-founder & CEO @ [SuperScored.ai](https://superscored.ai)** | Stanford Math & CS (On Leave)
 
   Building AI-powered education technology. Previously researching LLMs, innovation economics, and political economy
    at Stanford.
@@ -41,10 +41,11 @@
   ### Let's Connect
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.l
-  inkedin.com/in/stephen-yang-34b8b3293/)
+  inkedin.com/in/sqyang/)
+  
   [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yang29@stanford
   .edu)
-  [![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=About.me&logoColor=white)](https://stephen
-  yangxyz.com)
+  
+  [![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=About.me&logoColor=white)](https://stephenyang.info)
 
   ---
