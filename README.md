@@ -1,3 +1,5 @@
+![Banner](images/banner.jpg)
+
 # Hey, I'm Stephen Yang
 
   **Co-founder & CEO @ [SuperScored.ai](https://superscored.ai)** | Stanford Math & CS (On Leave)
