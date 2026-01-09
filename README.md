@@ -2,16 +2,19 @@
 
 # Stephen Qingyuan Yang
 
-  **Co-founder & CEO @ [SuperScored.ai](https://superscored.ai)** | Stanford Math & CS (On Leave)
+  **Software Engineer @ [Mechanize, Inc.](https://mechanize.work)** | Stanford Math & CS (On Leave)
 
-  Building AI-powered EdTech. Previously researching LLMs, innovation economics, and political economy
-   at Stanford.
+  Building RL environments for software engineering agents. Previously researching LLMs, innovation economics, and political economy at Stanford.
 
   ---
 
   ### What I'm Working On
 
-  **SuperScored.ai** - The best way to study for the SAT.
+  **Mechanize, Inc.** - Building reinforcement learning environments for software engineering agents.
+
+  ### Most Recently
+
+  **SuperScored.ai** (Co-founder & CEO) - AI-powered SAT prep platform.
 
   ### Research Background
 
