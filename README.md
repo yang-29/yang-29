@@ -1,6 +1,6 @@
 ![Banner](images/banner.jpg)
 
-# Stephen Qingyuan Yang
+# Stephen (Qingyuan) Yang
 
 **Software Engineer @ [Mechanize, Inc.](https://mechanize.work)** | Stanford Mathematics & Computer Science (On Leave)
 
@@ -16,7 +16,7 @@ Building reinforcement learning environments for software engineering agents. Pr
 
 ### Research
 
-My academic work sits at the intersection of AI/ML and social science:
+My academic work primarily lay at the intersection of AI/ML and social science:
 
 - **AI & Innovation** — Using LLMs to predict patent value and understand innovation quality
 - **Political Economy** — Modeling partisan voting behavior and legislative dynamics
@@ -31,20 +31,9 @@ My academic work sits at the intersection of AI/ML and social science:
 
 **SuperScored.ai** (Co-founder & CEO) — AI-powered SAT preparation platform.
 
-### Selected Achievements
+### Hobbies
 
-- **Mathematics** — USAJMO 2x Honorable Mention; MathCounts Nationals, 8th Place
-- **Policy Debate** — Tournament of Champions Qualifier; 29th Nationally
-- **Speedcubing** — WCA Official 3x3 PB: 9.92s
+- **Mathematics** — USAJMO 2x Honorable Mention; 7x AIME Qualifier, MathCounts Nationals, 8th Place
+- **Policy Debate** — Tournament of Champions Qualifier; Ranked 29th Nationally as Sophomore (3rd highest in grade)
+- **Speedcubing** — 3x3 PB: 9.92s
 - **Table Tennis** — Former professional training background
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yang-29&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yang-29&layout=compact&theme=transparent&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yang-29&theme=transparent&hide_border=true" />
-</p>
