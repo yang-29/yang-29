@@ -2,7 +2,7 @@
 
 # Stephen (Qingyuan) Yang
 
-Software Engineer @ [Mechanize, Inc.](https://mechanize.work) | Stanford '29 (On Leave)
+senior software engineer @ [Mechanize, Inc.](https://mechanize.work) | on leave from Stanford math
 
 Building environments for training and evaluating software engineering agents.
 
